@@ -50,7 +50,7 @@ I also realised that if I clicked on the README in my repository and then clicke
 
 I remembered that it was as simple as including a # before the sentence I wanted to make a title/heading;
  
-![Screenshot](Etain'sPreviousREADME.jpg)
+![Screenshot](EtainsPreviousREADME.jpg)
 
 Italics
 Referencing
