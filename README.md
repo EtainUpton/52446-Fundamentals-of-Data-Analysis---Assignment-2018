@@ -55,3 +55,35 @@ I remembered that it was as simple as including a # before the sentence I wanted
 Italics
 Referencing
 
+Ian mentioned in the instructions for this assignment that ‘part of the assignment is about the use of Jupyter notebooks, so students should make use of all the functionality available in the software including images, links, codes and plots.’ I decided to pay closer attention to how to utilise these functionalities when reviewing the Jupyter videos supplied by Ian on Moodle for our other module – 52465 Programming for Data Analysis - than I had when I initially watched them.
+1.	Re-watched ‘Starting Jupyter Video’, which provided an introduction to getting Jupyter running on my computer. I accessed Jupyter via the Anaconda Navigator as shown in the below screenshot;
+ 
+The below browser window opened;
+ 
+2.	Renaming Notebooks Video
+I did some research on the web for a definition of what Jupyter actually is;
+The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more. (Reference: http://jupyter.org/)
+3.	Cells in Jupyter Video
+I re-watched this video after reading the assignment requirements and realised that in order to complete the four tasks and explain them in my Jupyter notebook I would need to employ the use of Markdown cells – this allows me to type text into the cell, but the cell will not expect Python code – it will expect text (as per Ian’s comments in the video). Markdown cells contain Markdown text. I learned from this video that the idea with Jupyter notebook is that you can combine Code cells which contain Python code and the Markdown cells which contain markdown text and outputs of  the Python code so that you can tell a story – this is useful for viewers who may not be very familiar with programming but who wish to review your analysis. 
+In order to utilise the Markdown Cell functionality the user must go to ‘Cell Type’ and click ‘Markdown’. (9 mins in the video).
+To make bullet points; -
+4.	Jupyter Keyboard Shortcuts Video
+For headings = #
+For bullet points = -
+Edit mode = green
+Command mode = blue (not in edit mode) 
+Purpose of command mode = enable use of keyboard shortcuts more effectively. Example: move from cell to cell with the up and down keys.
+To move from edit to command mode: press Escape button on keyboard
+To move from command to edit = press enter
+
+5.	Code and markdown cells in jupyter Video
+How to change from a code cell to a markdown cell: press ‘m’ for markdown on your keyboard.
+To convert back to code from markdown: press ‘y’
+You can type any valid python code into a code cell. Then hold down shift & enter. Output provided to jupyter and displayed under the cell.
+Markdown cells: double click on the rendered cell to edit it again.
+I utilised a github guide named ‘Mastering Markdown’; https://guides.github.com/features/mastering-markdown/
+As mentioned by Ian, Markdown is similar to Microsoft Word.
+One # = top level heading.	
+To make markdown cells to look more attractive (to render the cell) hold down shift and press enter on keyboard.
+
+
