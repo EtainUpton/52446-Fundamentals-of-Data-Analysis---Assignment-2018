@@ -13,10 +13,10 @@ The README need only contain an explanation of what is contained in the reposito
 My notebook should contain the main body of work and list all references.
 
 # Good submission requirements;
-•	Clearly organised
-•	Contain concise explanations of the particularities of the dataset.
-•	The analysis contained within the notebook will be well conceived, interesting, and well researched.
-•	Part of the assignment is about the use of Jupyter notebooks – I should make use of all the functionality available in the software including images, links, code & plots.
+- •	Clearly organised
+- •	Contain concise explanations of the particularities of the dataset.
+- •	The analysis contained within the notebook will be well conceived, interesting, and well researched.
+- •	Part of the assignment is about the use of Jupyter notebooks – I should make use of all the functionality available in the software including images, links, code & plots.
 
 I knew I needed to bear these conditions in mind while completing this assignment to ensure I met the requirements.
 
@@ -30,19 +30,13 @@ This assignment concerns the well-known Anscombe’s quartet dataset. I am requi
 3.	Calculate the descriptive statistics of the variables in the dataset.
 4.	Explain why the dataset is interesting, referring to the plots and statistics above. 
 
-When reviewing my previous submissions from 7 months ago to my github repository for last semester’s module 52167 - Programming and Scripting I was able to quickly refresh my memory and recall some of the basic but important skills I had learned in terms of submitting content to a README in github, such as how to upload an image;
-While researching READMEs I wondered how I would correctly upload an image (e.g. a chart) to GitHub. I learned this from Mastering Markdown and have included some images in this README. I will delve into the initial challenges I faced while trying to successfully complete this; I knew how to upload pictures to a README in GitHub from Mastering Markdown. The below image is supplied on Mastering Markdown and I employed this technique to initially upload images from the web to README;
+When reviewing my previous submissions from 7 months ago to my github repository for last semester’s module '52167 - Programming and Scripting', I was able to quickly refresh my memory and recall some of the basic but important skills I had learned in terms of submitting content to a README in github, such as how to upload an image;
+
+*While researching READMEs I wondered how I would correctly upload an image (e.g. a chart) to GitHub. I learned this from Mastering Markdown and have included some images in this README. The below image is supplied on Mastering Markdown and I employed this technique to initially upload images from the web to README;
 
 ![Screenshot](HowToUploadImagesInREADME.jpg)
  
-However, I was unsure how to correctly upload screenshots from my own machine to show the work I had completed in Visual Studio Code. I remembered covering this in the ‘READMEs’ video on Moodle, so I referred back to this for guidance. I learned that you must follow the same formula as shown in the above image in terms of the exclamation point at the beginning of where you wish to insert an image, square brackets containing a description of what the image represents, and regular brackets with the name of the image from the web, however you insert the name of the image which you have saved in your GitHub repository from your own machine inside the regular brackets brackets. I initially tried to complete this with a PNG file, but when this did not work I saved the image on my desktop again as a JPG file and was able to upload it to the repository and successfully upload it to the README. I also realised through trial and error that there can be no spaces in the name of the image.
-I also learned that it is possible to hyperlink Python.
 (Reference: Etain Upton’s repository which was submitted for module 52167 - Programming and Scripting https://github.com/EtainUpton/Etain-s-Project-2018---52167---Programming-and-Scripting)
-
-Name of Module: 52167 - Programming and Scripting
-Subject of the assignment:
-Research on the subject of Fisher’s Iris data set
-Completed 7 months ago
 
 I also realised that if I clicked on the README in my repository and then clicked ‘Edit this file’ I’d see exactly what I had done to create headings in bold, etc for this README;
  
@@ -52,22 +46,23 @@ I remembered that it was as simple as including a # before the sentence I wanted
  
 ![Screenshot](EtainsPreviousREADME.jpg)
 
-Italics
-Referencing
+Ian mentioned in the instructions for this assignment that ‘part of the assignment is about the use of Jupyter notebooks, so students should make use of all the functionality available in the software including images, links, codes and plots.’ 
 
-Ian mentioned in the instructions for this assignment that ‘part of the assignment is about the use of Jupyter notebooks, so students should make use of all the functionality available in the software including images, links, codes and plots.’ I decided to pay closer attention to how to utilise these functionalities when reviewing the Jupyter videos supplied by Ian on Moodle for our other module – 52465 Programming for Data Analysis - than I had when I initially watched them.
-1.	Re-watched ‘Starting Jupyter Video’, which provided an introduction to getting Jupyter running on my computer. I accessed Jupyter via the Anaconda Navigator as shown in the below screenshot;
+I decided to pay closer attention to how to utilise these functionalities when reviewing the Jupyter videos supplied by Ian on Moodle for our other module – 52465 Programming for Data Analysis - than I had when I initially watched them.
+
+1.	Re-watched *Starting Jupyter Video*, which provided an introduction to getting Jupyter running on my computer. I accessed Jupyter via the Anaconda Navigator.
  
-The below browser window opened;
- 
-2.	Renaming Notebooks Video
+2.	*Renaming Notebooks Video*
 I did some research on the web for a definition of what Jupyter actually is;
-The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more. (Reference: http://jupyter.org/)
-3.	Cells in Jupyter Video
-I re-watched this video after reading the assignment requirements and realised that in order to complete the four tasks and explain them in my Jupyter notebook I would need to employ the use of Markdown cells – this allows me to type text into the cell, but the cell will not expect Python code – it will expect text (as per Ian’s comments in the video). Markdown cells contain Markdown text. I learned from this video that the idea with Jupyter notebook is that you can combine Code cells which contain Python code and the Markdown cells which contain markdown text and outputs of  the Python code so that you can tell a story – this is useful for viewers who may not be very familiar with programming but who wish to review your analysis. 
-In order to utilise the Markdown Cell functionality the user must go to ‘Cell Type’ and click ‘Markdown’. (9 mins in the video).
-To make bullet points; -
-4.	Jupyter Keyboard Shortcuts Video
+*The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more.* (Reference: http://jupyter.org/)
+
+3.	*Cells in Jupyter Video*
+I re-watched this video after reading the assignment requirements and realised that in order to complete the four tasks and explain them in my Jupyter notebook I would need to employ the use of Markdown cells – this allows me to type text into the cell, but the cell will not expect Python code – it will expect text (as per Ian’s comments in the video). 
+Markdown cells contain Markdown text. 
+I learned from this video that the idea with Jupyter notebook is that you can combine Code cells which contain Python code and the Markdown cells which contain markdown text and outputs of  the Python code so that you can tell a story – this is useful for viewers who may not be very familiar with programming but who wish to review your analysis. 
+In order to utilise the Markdown Cell functionality the user must go to *Cell Type* and click *Markdown*. (9 mins in the video).
+
+4.	*Jupyter Keyboard Shortcuts Video*
 For headings = #
 For bullet points = -
 Edit mode = green
@@ -76,7 +71,7 @@ Purpose of command mode = enable use of keyboard shortcuts more effectively. Exa
 To move from edit to command mode: press Escape button on keyboard
 To move from command to edit = press enter
 
-5.	Code and markdown cells in jupyter Video
+5.	*Code and markdown cells in jupyter* Video
 How to change from a code cell to a markdown cell: press ‘m’ for markdown on your keyboard.
 To convert back to code from markdown: press ‘y’
 You can type any valid python code into a code cell. Then hold down shift & enter. Output provided to jupyter and displayed under the cell.
