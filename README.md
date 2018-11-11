@@ -4,7 +4,7 @@ Semester 2. This is a 5 Credit Module. This assignment is worth 60% of the overa
 # Instructions for this assignment;
 
 # Minimum standard:
-A git repository containing a README, a gitignore file & a Jupyter notebook. 
+A git repository containing a README, a gitignore file & a Jupyter notebook (my notebook which is available in this reporitory: *Jupyter Notebook - contains information on Anscombe's quartet dataset..ipynb*). 
 
 When I created the repository in github I ensured I added a README & a gitignore.
 
